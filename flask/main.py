@@ -1,6 +1,5 @@
 from flask import *
 import pandas as pd
-import seaborn as sns
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
